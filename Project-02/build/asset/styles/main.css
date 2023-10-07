@@ -1,0 +1,118 @@
+/* Css Style add to Project */
+
+.header-position
+{
+    background-color: #2196f3;
+    color: #ffffff;
+    background-image: url(/Project-02/build/images/wave-1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center 110%;
+    height: 100vh;
+}
+
+.header-position .logo
+{
+    height: 40px;
+    margin: 20px;
+}
+
+.header-position .row
+{
+    padding-top: 10%;
+    padding-bottom: 15%;
+
+}
+
+.promte-text-blog
+{
+    margin-top: 15%;
+}
+
+.promte-text-blog h1
+{
+    margin-bottom: 25px;
+}
+
+.promte-text-blog .play-button
+{
+    width: 45px;
+    height: 45px;
+}
+
+.lead-form
+{
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 500px;
+    margin-left: 60px;
+}
+
+.lead-form .text-box
+{
+    background-color: #0c7fdd;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;   
+}
+
+.text-box h1
+{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+.text-box p
+{
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lead-form .form-box
+{
+    margin-top: 30px;
+}
+
+.form-box label
+{
+    color: black;
+    font-size: 20px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.form-box .form-control 
+{
+    width: 80%;
+    margin-left: 70px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 0px;
+}
+
+.checkbox-form
+{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.terms
+{
+    color: black;
+}
+
+.form-button
+{
+    margin-left: 190px;
+    margin-top: 45px;
+    width: 200px;
+    height: 50px;
+    color: #ffffff;
+    background-color: #0c7fdd;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-color: #0c7fdd;
+}
+
