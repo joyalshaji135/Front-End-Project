@@ -31,7 +31,7 @@
             Login Page Design
         </td>
         <td>
-            <a href="https://digitalmarkets-front.netlify.app/">Click Me</a>
+            <a href="https://sample-login-ppage.netlify.app/">Click Me</a>
         </td>
     </tr>
 </table>
