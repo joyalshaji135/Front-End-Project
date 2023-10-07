@@ -1,0 +1,26 @@
+#social-media
+{
+    background-color: #f8f9fa;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#social-media p
+{
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.social-icon img
+{
+    width: 60px;
+    transition: 0.5s;
+}
+
+.social-icon a:hover img
+{
+    transform: translateY(-10px);
+}
