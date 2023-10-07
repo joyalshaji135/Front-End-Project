@@ -28,7 +28,7 @@
             2
         </td>
         <td>
-            Digital Marketing Project
+            Login Page Design
         </td>
         <td>
             <a href="https://digitalmarkets-front.netlify.app/">Click Me</a>
