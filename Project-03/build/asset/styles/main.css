@@ -89,6 +89,9 @@ body
 {
     height: 400px;
     width: 400px;
+    border: 2px solid #000000;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 .nav-bar
@@ -101,4 +104,49 @@ body
 .navbar
 {
     background-color: #000000;
+}
+
+.navbar-brand img
+{
+    height: 50px;
+}
+
+#nav-icon
+{
+    font-size: 35px;
+    color: #fff !important;
+}
+
+.navbar-toggler
+{
+    outline: none !important;
+}
+
+.navbar-nav
+{
+    float: center;
+    text-align: center;
+}
+
+.nav-link
+{
+    color: #ffffff !important;
+}
+
+.skill-bar p
+{
+   margin-bottom: 6px;
+   font-weight: 600;
+}
+
+.progress
+{
+    border-radius: 16px !important;
+    margin-bottom: 10px;
+}
+
+.progress-bar
+{
+    border-radius: 16px;
+    background: #000000 !important;
 }
