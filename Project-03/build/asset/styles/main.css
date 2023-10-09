@@ -40,6 +40,11 @@ body
     margin: 10px;
 }
 
+.navbar-brand
+{
+    color: #fff !important;
+}
+
 .user-box p
 {
     color: #ffffff;
@@ -82,7 +87,7 @@ body
 .about
 {
     padding-top: 100px;
-    padding-bottom: 50px;   
+    margin-bottom: -130px;   
 }
 
 .profile-img
@@ -150,9 +155,10 @@ body
     border-radius: 16px;
     background: #000000 !important;
 }
-
+/* -------------------------Resume-------------------------------- */
 .resume
 {
+    margin-top: -50px;
     padding-top: 50px;
     padding-bottom: 30px;
     background: #f9f9f9;
@@ -221,6 +227,8 @@ body
     height: 20px;
     z-index: 1;
 }
+
+/* ---------------------Services --------------------------- */
 
 .services
 {
@@ -335,4 +343,39 @@ body
     margin-top: 50px;
     color: #fff;
     padding-top: 10px;
+}
+
+/* ------------------------Social Media Plateforms-------------------------------- */
+
+.social-media
+{
+    top: 50%;
+    transform: translateY(-50%);
+    position: sticky;
+    z-index: 1;
+    width: 80px;
+}
+
+.social-media ul
+{
+    padding: initial;
+}
+
+.social-media ul li
+{
+    height: 40px;
+    width: 40px;
+    list-style-type: none;
+    padding-left: 12px;
+    padding-top: 6px;
+    margin-top: 5px;
+    color: #ffffff;
+    background: #000000;
+}
+
+.social-media ul li:hover
+{
+    padding-left: 30px;
+    width: 80px;
+    transition: 0.6s;
 }
