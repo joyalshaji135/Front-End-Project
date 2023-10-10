@@ -34,4 +34,15 @@
             <a href="https://sample-login-ppage.netlify.app/">Click Me</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            3
+        </td>
+        <td>
+            Personal Website
+        </td>
+        <td>
+            <a href="https://joel-thomas.netlify.app/">Click Me</a>
+        </td>
+    </tr>
 </table>
