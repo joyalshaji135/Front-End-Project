@@ -13,7 +13,7 @@
     width: 100%;
 }
 
-.navbar img
+.navbar .nav-content img
 {
     height: 40px;
     width: 60px;
@@ -31,13 +31,13 @@
 
 .nav-content ul li
 {
-    display: inline-block;
     color: #000000;
-    margin-right: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     font-size: 12px;
     font-weight: bold;
+    margin-right: 20px;
     margin-top: 10px;
+    display: inline-block;
 }
 
 .nav-content a
@@ -47,4 +47,37 @@
 .nav-content ul li sup
 {
     color: #ff0000;
+    font-weight: normal;
+}
+
+.search-bar input
+{
+    border: none;
+    height: 20px;
+    width: 500px;
+    background-color: rgb(245, 245, 245);
+    border-color: rgb(245, 245, 245);
+}
+
+.fa{
+    color: rgb(144, 154, 163);
+    margin-right: 20px;
+}
+
+.search-bar
+{
+    margin-left: 300px;
+}
+
+.details
+{
+    margin-left: 150px;
+}
+
+.details .fa
+{
+    margin-left: 5px;
+    color: rgb(144, 154, 163);
+    font-size: 18px;
+    margin-top: 5px;
 }
