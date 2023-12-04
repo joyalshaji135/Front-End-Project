@@ -13,23 +13,38 @@
     width: 100%;
 }
 
-.navbar .nav-content img
+.navbar img
 {
     height: 40px;
     width: 60px;
     margin-left: 80px;
     margin-top: 20px;
+    margin-right: 50px;
 }
 
 .nav-content
 {
     display: inline-block;
+    margin-left: 20px;
     
 }
 
-.nav-content ul a li
+.nav-content ul li
 {
     display: inline-block;
     color: #000000;
-    margin-left: 100px;
+    margin-right: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.nav-content a
+{
+    text-decoration: none;
+}
+.nav-content ul li sup
+{
+    color: #ff0000;
 }
