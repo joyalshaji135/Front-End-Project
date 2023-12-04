@@ -1,0 +1,35 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* -------------------HEADER SECTION-------------------- */
+
+.navbar
+{
+    background-color: rgb(245, 245, 245);
+    height: 80px;
+    width: 100%;
+}
+
+.navbar .nav-content img
+{
+    height: 40px;
+    width: 60px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.nav-content
+{
+    display: inline-block;
+    
+}
+
+.nav-content ul a li
+{
+    display: inline-block;
+    color: #000000;
+    margin-left: 100px;
+}
