@@ -12,7 +12,6 @@
             LINKS
         </th>
     </tr>
-    
     <tr>
         <td>
             1
