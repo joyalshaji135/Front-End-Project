@@ -11,6 +11,7 @@
     background-color: rgb(245, 245, 245);
     height: 80px;
     width: 100%;
+    box-shadow: 1px 1px 5px rgb(175, 181, 186);
 }
 
 .navbar .nav-content img
