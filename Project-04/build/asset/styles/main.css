@@ -11,7 +11,7 @@
     background-color: rgb(245, 245, 245);
     height: 80px;
     width: 100%;
-    box-shadow: 1px 1px 5px rgb(175, 181, 186);
+    box-shadow: 1px 1px 5px rgb(222, 225, 225);
 }
 
 .navbar .nav-content img
@@ -67,7 +67,7 @@
 
 .search-bar
 {
-    margin-left: 300px;
+    margin-left: 200px;
 }
 
 .details
@@ -82,3 +82,87 @@
     font-size: 18px;
     margin-top: 5px;
 }
+
+/* -------------------SECTION MAIN MENU-------------------- */
+
+.content-menu
+{
+    margin-top: 20px;
+    margin-left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.content-menu .fashion-item
+{
+    color: rgb(73, 82, 90);
+}
+
+.content-menu b
+{
+    color: #000000;
+}
+
+
+.title-content .title-content-1
+{
+    display: inline-block;
+}
+
+.title-content-1 .h3
+{
+    display: inline-block;
+    margin-right: 60px;
+} 
+
+.title-content-1 h5
+{
+    color: #ff0000;
+}
+
+.title-content-1 p
+{
+    display: inline-block;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(241, 237, 237);
+    font-weight: normal;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.title-content-1 i:after
+{
+
+    color: rgb(73, 82, 90);
+    content: ' \02C5';
+    height: 5px;
+    width: 5px;
+    margin-top: 6px;
+}
+
+.title-content-1 button
+{
+    margin-left: 750px;
+    background-color: #ffffff;
+    height: 40px;
+    width: 230px;
+    border-color: rgb(73, 82, 90);
+}
+
+.title-content
+{
+    margin-left: 200px;
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+.filter-product
+{
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 10px;
+    border-top-style: solid;
+    border-color: rgb(122, 129, 135);
+    border-width: 1px;
+}
+
