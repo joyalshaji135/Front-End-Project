@@ -147,6 +147,7 @@
     height: 40px;
     width: 230px;
     border-color: rgb(73, 82, 90);
+    border-width: 1px;
 }
 
 .title-content
@@ -165,4 +166,5 @@
     border-color: rgb(122, 129, 135);
     border-width: 1px;
 }
+
 
